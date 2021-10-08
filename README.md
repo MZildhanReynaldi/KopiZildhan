@@ -1,8 +1,8 @@
 # Web Kopi Kingz Zildhan
 
-Nama : M. Zildhan Reynaldi
-Nim : 1810817310006
-Matkul : Web Framework
+Nama : M. Zildhan Reynaldi \ 
+Nim : 1810817310006 \ 
+Matkul : Web Framework \ 
 
 
 ### Page yang telah dibuat
